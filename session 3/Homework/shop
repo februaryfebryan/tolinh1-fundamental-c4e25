@@ -1,0 +1,10 @@
+
+
+
+items = ["T-Shirt", "Sweater"]
+print(items)
+
+order = input("welcome to our shop, what do chu want? (C,R,U,D)" )
+if order == "C"
+items.append("Jeans")
+print(items)
